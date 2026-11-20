@@ -1,0 +1,11 @@
+NẾP SỨ
+Checklist chuẩn bị thông tin gửi ca phục hình
+
+[ ] Mã ca và thông tin liên hệ của phòng khám
+[ ] Vị trí răng và loại phục hình theo chỉ định của bác sĩ
+[ ] Dữ liệu scan hoặc dấu hàm, hàm đối diện và tương quan khớp cắn
+[ ] Mã màu và ảnh tham chiếu nếu cần
+[ ] Vật liệu, yêu cầu thẩm mỹ và ghi chú kỹ thuật
+[ ] Thời điểm thử và hạn bàn giao dự kiến
+
+Trao đổi với labo về định dạng dữ liệu và kênh gửi hồ sơ trước khi chuyển thông tin ca.
